@@ -1,7 +1,5 @@
 ## Olá sou Leonardo Morais, desenvolvedor FullStack!
 
-- 🖥️ Atualmente fazendo freelancer
-- 🤖 Estudando afundo JavaScript e PHP
 
 <div align="center">
   <a href="https://github.com/leonardomoraisf">
