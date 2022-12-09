@@ -1,4 +1,4 @@
-## Olá sou Leonardo Morais, desenvolvedor FullStack!
+## Olá sou Leonardo Morais, desenvolvedor PHP!
 
 
 <div align="center">
