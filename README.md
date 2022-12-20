@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="https://www.linkedin.com/in/leonardomoraisf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:mfrancaleonardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/lk.lmf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://github.com/leonardomoraisf">
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -11,9 +14,6 @@
 </div>
  
 <div> 
-   <a href="https://www.linkedin.com/in/leonardomoraisf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mfrancaleonardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/lk.lmf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 ### Code is poetry.
 I create ideas and develop solutions in the shape of software using my creativity and my technical knowledge in PHP by building web apps with MVC structure and mobile-apps using Flutter that aren't just beautiful, but are enjoyable to use and really problem-solvers. 
