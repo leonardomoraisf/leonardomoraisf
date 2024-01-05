@@ -15,15 +15,16 @@ A clean and understandable code, as a good poem should be.
     
 <div style="display: inline_block"><br>
   <a href="https://github.com/leonardomoraisf">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-VueJs" height="30" width="40" src="https://img.icons8.com/color/256/vue-js.png">
-  <img align="center" alt="Leo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Leo-Postgres" height="30" width="40" src="https://img.icons8.com/plasticine/256/postgreesql.png">
-  <img align="center" alt="Leo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Leo-Laravel" height="30" width="40" src="https://img.icons8.com/fluency/256/laravel.png">
-  <img align="center" alt="Leo-Docker" height="30" width="40" src="https://img.icons8.com/color/256/docker.png">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="VueJs" height="30" width="40" src="https://img.icons8.com/color/256/vue-js.png">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Postgres" height="30" width="40" src="https://img.icons8.com/plasticine/256/postgreesql.png">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://img.icons8.com/fluency/256/laravel.png">
+  <img align="center" alt="Docker" height="30" width="40" src="https://img.icons8.com/color/256/docker.png">
 </div>
  
 </div>
