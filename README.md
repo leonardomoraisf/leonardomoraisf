@@ -6,7 +6,7 @@
 <div> 
  
 ### Code is poetry.
-I create ideas and develop solutions in the shape of software using my creativity and my technical knowledge in PHP by building web apps with MVC structure and mobile-apps using Flutter that aren't just beautiful, but are enjoyable to use and really problem-solvers. 
+I create ideas and develop solutions in the shape of software using my creativity and my technical knowledge in PHP by building web apps with MVC structure that aren't just beautiful, but are enjoyable to use and really problem-solvers. 
 
 Always writing not just scalable softwares, but also the readable code that will make the scalability possible.
 
