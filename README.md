@@ -5,13 +5,13 @@
 <div> 
  
 ### Code is poetry.
-I turn ideas into real solutions by building software—now powered not just by my creativity and technical skills, but also by AI as a core tool in my workflow.
+I turn ideas into real solutions by building software-now powered not just by my creativity and technical skills, but also by AI as a core tool in my workflow.
 
-I develop web applications with solid architectures, focused not only on clean design but on delivering products that are intuitive, efficient, and truly solve problems. I use AI to accelerate development, improve decision-making, and enhance quality—without sacrificing fundamentals.
+I develop web applications with solid architectures, focused not only on clean design but also on delivering products that are intuitive, efficient, and truly solve problems. I use AI to accelerate development, improve decision-making, and enhance quality without sacrificing fundamentals.
 
-I write software that is secure, scalable, and maintainable. Code that is not just optimized for growth, but also readable and well-structured—because scalability only exists when the codebase allows it.
+I write software that is secure, scalable, and maintainable. Code that is not just optimized for growth, but also readable and well-structured, because scalability only exists when the codebase allows it.
 
-Clean, understandable code—like a good poem—but built with the best tools and practices available today.
+Clean, understandable code like a good poem, but built with the best tools and practices available today.
     
 <div style="display: inline_block"><br>
   <a href="https://github.com/leonardomoraisf">
